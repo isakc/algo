@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;ch3_dp&apos; to &apos;ch8_dp&apos;&#x0D;&#x0A;- Original project: &apos;cote&apos;&#x0D;&#x0A;- Original element: &apos;cote/src/ch3_dp&apos;&#x0D;&#x0A;- Renamed element: &apos;cote/src/ch8_dp&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;ch3_dp&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;ch3_dp" name="ch8_dp" qualified="false" references="true" stamp="1635134739610" textual="false" version="1.0"/>
+</session>

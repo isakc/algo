@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;baekjoon.class3.b1780_TT.java&apos; to &apos;b1780.java&apos;&#x0D;&#x0A;- Original project: &apos;baek&apos;&#x0D;&#x0A;- Original element: &apos;baekjoon.class3.b1780_TT.java&apos;&#x0D;&#x0A;- Renamed element: &apos;baekjoon.class3.b1780.java&apos;" description="Rename compilation unit &apos;b1780_TT.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;baekjoon.class3{b1780_TT.java" name="b1780.java" references="false" stamp="1638247294456" version="1.0"/>
+</session>

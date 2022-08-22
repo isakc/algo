@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;mock&apos; to &apos;bruteforce&apos;&#x0D;&#x0A;- Original project: &apos;programmers&apos;&#x0D;&#x0A;- Original element: &apos;programmers/src/mock&apos;&#x0D;&#x0A;- Renamed element: &apos;programmers/src/bruteforce&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;mock&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;mock" name="bruteforce" qualified="false" references="true" stamp="1631264616574" textual="false" version="1.0"/>
+</session>
